@@ -1,0 +1,9 @@
+opencv-python
+dlib
+imutils
+scipy
+transformers
+Pillow
+numpy
+torch
+psutil
